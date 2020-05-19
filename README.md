@@ -1,1 +1,1 @@
-# ARE2020-La-propagation-de-l-information-dans-un-r-seau-social
+# ARE2020-La-propagation-de-l-information-dans-un-reseau-social
